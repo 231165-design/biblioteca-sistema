@@ -1,1 +1,1 @@
-"Versi¢n inicial desde develop" 
+"Versi¢n final despu‚s de resolver merge conflict" 
